@@ -13,10 +13,10 @@ Accompanying visualizations to enhance understanding.
 
 To conduct this exploration, several libraries have been employed, including:
 
-numpy
-pandas
-matplotlib.pipot
-matplotlib.style
-seaborn
-geopandas
-folium
+* numpy
+* pandas
+* matplotlib.pipot
+* matplotlib.style
+* seaborn
+* geopandas
+* folium
