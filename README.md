@@ -10,3 +10,13 @@ Listings categorized by room type
 Price distributions per day
 Listings per host
 Accompanying visualizations to enhance understanding.
+
+To conduct this exploration, several libraries have been employed, including:
+
+numpy
+pandas
+matplotlib.pipot
+matplotlib.style
+seaborn
+geopandas
+folium
