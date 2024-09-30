@@ -1,4 +1,4 @@
-This assignment aims to an explanatory analysis of the influence of AirBnB on the city of Athens. The dataset utilized for this investigation has been collected from "Inside AirBnB" and can be accessed at (kaggle)[https://insideairbnb.com/get-the-data/].
+This assignment aims to an explanatory analysis of the influence of AirBnB on the city of Athens. The dataset utilized for this investigation has been collected from "Inside AirBnB" and can be accessed at [kaggle](https://insideairbnb.com/get-the-data/).
 
 The analysis encompasses various facets, including:
 
